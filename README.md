@@ -2,4 +2,4 @@
 one to one char system for win, c++/c
 
 ### tool
-	editors：“visual stdio community 2019”
+	editors：“visual studio community 2019”

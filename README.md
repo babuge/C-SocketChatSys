@@ -1,2 +1,2 @@
 # C-SocketChatSys
-char
+one to one char system , c.

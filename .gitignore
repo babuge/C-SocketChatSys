@@ -50,3 +50,22 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# customize
+socket_client/**/*.aps
+socket_client/**/*.rc
+socket_client/**/*.sln
+socket_client/**/*.vcxproj
+socket_client/**/*.filters
+socket_client/**/*.user
+socket_client/Debug/
+socket_client/.vs/
+
+socket_server/**/*.aps
+socket_server/**/*.rc
+socket_server/**/*.sln
+socket_server/**/*.vcxproj
+socket_server/**/*.filters
+socket_server/**/*.user
+socket_server/Debug/
+socket_server/.vs/
